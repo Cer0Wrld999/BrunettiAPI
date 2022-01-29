@@ -1,2 +1,3 @@
 # BrunettiAPI
-API for Brunetti
+API for Brunetti Bot
+
