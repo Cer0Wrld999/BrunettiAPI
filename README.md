@@ -10,7 +10,7 @@ API for Brunetti Bot
 }
 ```
 * Multiple value object
-* ```json
+```json
 {
  "example" :  ["1", "2"]
 }
